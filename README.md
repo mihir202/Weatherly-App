@@ -7,7 +7,10 @@ A simple weather app built with React
 https://weatherly-react-app-a.herokuapp.com/
 
 # Development stack 
-The flow was enabled to catch typing errors in React JavaScript code I used Nuclide and Visual Studio Code on OSX, both have great support for React app development I used git for version control and stored progress on GitHub. Currently only tested on a Web app
+The flow was enabled to catch typing errors in React JavaScript code 
+I used Nuclide and Visual Studio Code on OSX, both have great support for React app development 
+I used git for version control and stored progress on GitHub. 
+Currently only tested on a Web app
 
 # APIs 
 Weather data is retrieved from http://openweathermap.org/ You can see examples of API data in react-weather/api
